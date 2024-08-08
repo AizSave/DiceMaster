@@ -12,7 +12,7 @@
    The Bot can see the names of the servers where it is active. This information is used for operational purposes, such as managing interactions and commands specific to each server. 
 
 4. **Freedom to Use Server Information**
-   aiz_save has the liberty to use and handle the server names collected by the Bot in any manner deemed appropriate. This may include, but is not limited to, using server names for operational improvements or administrative purposes.
+   aiz_save has the liberty to use and handle the server names collected by the Bot in any manner. This may include, but is not limited to, using server names for operational improvements or administrative purposes.
 
 5. **Information Sharing and Disclosure**
    Since no personal user data is collected or stored, there is no data to share with third parties. However, server names may be used internally for the Bot’s management and improvement.
