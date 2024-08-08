@@ -6,18 +6,21 @@
    This Privacy Policy explains how DiceMaster ("the Bot") handles user information. By using the Bot, you acknowledge and agree to the terms of this policy.
 
 2. **Information Collection**
-   DiceMaster does not collect, store, or process any personal information or data from its users. The Bot operates solely on the commands and interactions within the Discord platform, without logging or storing any user data.
+   DiceMaster does not collect or store any personal information from users. However, as part of its operation, the Bot can access and view the names of the servers (guilds) where it is installed.
 
-3. **Use of Information**
-   Since DiceMaster does not collect any user information, there is no personal data to use or process.
+3. **Use of Server Information**
+   The Bot can see the names of the servers where it is active. This information is used for operational purposes, such as managing interactions and commands specific to each server. 
 
-4. **Information Sharing and Disclosure**
-   As no user information is collected or stored by DiceMaster, there is no data to share or disclose to third parties.
+4. **Freedom to Use Server Information**
+   aiz_save has the liberty to use and handle the server names collected by the Bot in any manner deemed appropriate. This may include, but is not limited to, using server names for operational improvements or administrative purposes.
 
-5. **Data Security**
-   While DiceMaster does not collect user data, we are committed to ensuring that the Bot operates in a secure manner within the Discord platform. Users are encouraged to review Discord’s privacy practices for more information.
+5. **Information Sharing and Disclosure**
+   Since no personal user data is collected or stored, there is no data to share with third parties. However, server names may be used internally for the Bot’s management and improvement.
 
-6. **Changes to This Privacy Policy**
+6. **Data Security**
+   Although no personal user data is collected, we strive to ensure the Bot operates securely within the Discord platform. Users are encouraged to review Discord’s privacy practices for more information.
+
+7. **Changes to This Privacy Policy**
    aiz_save reserves the right to update or change this Privacy Policy at any time. Any changes will be effective immediately upon posting the updated policy.
 
 7. **Contact**
