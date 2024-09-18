@@ -6,7 +6,7 @@
    This Privacy Policy explains how DiceMaster ("the Bot") handles user information. By using the Bot, you acknowledge and agree to the terms of this policy.
 
 2. **Information Collection**
-   DiceMaster does not collect or store any personal information from users. However, as part of its operation, the Bot can access and view the names of the servers (guilds) where it is installed and the member count of them.
+   DiceMaster does not collect or store any personal information from users. However, the Bot can access and view the names of the servers (guilds) where it is installed and the member count of them.
 
 3. **Use of Server Information**
    The Bot can see the names and member count of the servers where it is active. This information is used for operational purposes, such as managing interactions and commands specific to each server. 
